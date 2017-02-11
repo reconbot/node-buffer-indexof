@@ -4,6 +4,8 @@
 buffer-indexof
 ===================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/node-buffer-indexof.svg)](https://greenkeeper.io/)
+
 find the index of a buffer in a buffer. should behave like String.indexOf etc.
 
 ```js
