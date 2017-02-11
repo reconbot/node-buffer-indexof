@@ -12,6 +12,6 @@
   "author": "Ryan Day",
   "dependencies": {},
   "devDependencies": {
-    "tape": "~1.1.0"
+    "tape": "~4.6.3"
   }
 }
